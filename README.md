@@ -9,6 +9,7 @@
   <a href="https://rytracetito.github.io"><img src="https://img.shields.io/badge/Website-rytracetito.github.io-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/tito-rytrace"><img src="https://img.shields.io/badge/LinkedIn-tito--rytrace-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://orcid.org/0009-0003-3848-3984"><img src="https://img.shields.io/badge/ORCID-0009--0003--3848--3984-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://cv.hal.science/amedee-rytrace-tito"><img src="https://img.shields.io/badge/HAL-amedee--rytrace--tito-B03532?style=for-the-badge&logo=hal&logoColor=white" alt="HAL"></a>
   <a href="mailto:artito@univ-pau.fr"><img src="https://img.shields.io/badge/Email-artito@univ--pau.fr-ec4899?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
   <a href="https://discord.com/users/1419982212819849236"><img src="https://img.shields.io/badge/Discord-Rytrace-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
