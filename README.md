@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm TITO Amedée Rytrace 👋</h1>
+<h1 align="center">Hi, I'm TITO Rytrace 👋</h1>
 
 <p align="center">
   <b>PhD candidate in applied mathematics</b> at the <b>LMAP</b> (Laboratory of Mathematics and their Applications of Pau), University of Pau and the Adour Region (UPPA), France<br>
